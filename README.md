@@ -1,5 +1,5 @@
 # JSON-pizza-Javascript-jQuery
-Simple web - Pizza menu with simple JavaScript and jQuery
+Simple web - Pizza menu with simple JavaScript, jQuery, and Bootstrap
 
 <li>jQuery CDN Javascript</li>
 <li>Bootstrap CDN Links</li>
